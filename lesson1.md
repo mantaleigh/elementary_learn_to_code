@@ -18,4 +18,8 @@ Before activity:
 * *My favorite thing about coding is that it's really important to work together with your friends to come up with your algorithms. Remember to ask for help and be willing to help others with their code!*
 
 ### Activity
-
+https://studio.code.org/s/artist/stage/1/puzzle/1
+If we finish:
+* intro to scratch!
+  - draw, make a game
+* Extra vocab: *bug* - something that isn't working right in code. Tell the story of the name!
