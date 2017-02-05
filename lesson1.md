@@ -1,5 +1,6 @@
 #Lesson 1
 
+http://bit.ly/2-5-17-lesson1
 
 ### Today we will: 
 * **Get to know eachother**
@@ -19,6 +20,7 @@ Before activity:
 
 ### Activity
 https://studio.code.org/s/artist/stage/1/puzzle/1
+
 If we finish:
 * intro to scratch!
   - draw, make a game
